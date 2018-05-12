@@ -1,15 +1,21 @@
 _repo: Novellen-Der-ungetaufte-Pope-Das-Urteil-Seiner-Eminenz-Die-Furcht_49159
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Mierzinski, S.
     gutenberg_agent_id: '45173'
     url: http://www.gutenberg.org/2009/agents/45173
+covers:
+- cover_type: archival
+  image_path: 49159-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Leskov, Nikolaj
     gutenberg_agent_id: '45172'
     url: http://www.gutenberg.org/2009/agents/45172
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49159#Novellen-Der-ungetaufte-Pope-Das-Urteil-Seiner-Eminenz-Die-Furcht
 gutenberg_issued: '2015-06-07'
 gutenberg_type: Text
 identifiers:
